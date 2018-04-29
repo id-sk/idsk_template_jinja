@@ -1,6 +1,6 @@
 {
   "name": "idsk_template_jinja",
-  "version": "0.24.0-idsk-alpha.3",
+  "version": "0.24.1",
   "description": "Jinja packaged version of the ID-SK template",
   "keywords": ["alphagov", "id-sk", "jinja", "template"],
   "bugs": "https://github.com/id-sk/idsk_template_jinja/issues",
